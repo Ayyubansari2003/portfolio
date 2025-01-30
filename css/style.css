@@ -33,6 +33,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+
 body.dark {
   --bg-black-900: #151515;
   --bg-black-100: #222222;
@@ -654,7 +655,7 @@ h3.my-profession {
 /* Service End */
 
 /* Portfolio Start */
-.portfolio .container {
+/* .portfolio .container {
   padding-bottom: 40px;
 }
 
@@ -685,7 +686,7 @@ h3.my-profession {
 .portfolio .portfolio-item-innner .portfolio-img img {
   width: 100%;
   display: block;
-}
+} */
 
 /* Portfolio End */
 
@@ -865,9 +866,13 @@ h3.my-profession {
 .contact .contact-form .btn {
   height: 50px;
   padding: 0 50px;
+  
 }
 
+
+
 /* Contact End */
+
 
 /* Device Responsive Start */
 @media (max-width: 1190px) {
