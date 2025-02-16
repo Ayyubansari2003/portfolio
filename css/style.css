@@ -1,12 +1,4 @@
-/* 
-Project Name: Modern Portfolio Website
-Description: A complete responsive modern portfolio website design
-             by using HTML CSS and Vanilla JavaScript from scratch.
-Author: Md Al Amin Hossen
-Github: https://github.com/MdRasen
-License: MIT License
-Copyright: 2023 ©MdRasen 
-*/
+
 
 @import url("https://fonts.googleapis.com/css2?family=Clicker+Script&family=Lato:wght@300;400;700;900&family=Poppins:wght@200;300;400;500;600;700&display=swap");
 
@@ -654,41 +646,6 @@ h3.my-profession {
 
 /* Service End */
 
-/* Portfolio Start */
-/* .portfolio .container {
-  padding-bottom: 40px;
-}
-
-.portfolio .portfolio-heading {
-  flex: 0 0 100%;
-  max-width: 100%;
-  margin-bottom: 40px;
-}
-
-.portfolio .portfolio-heading h2 {
-  color: var(--text-black-900);
-  font-weight: 500;
-}
-
-.portfolio .portfolio-item {
-  flex: 0 0 33.33%;
-  max-width: 33.33%;
-  margin-bottom: 30px;
-}
-
-.portfolio .portfolio-item-innner {
-  border: 6px solid var(--bg-black-100);
-  border-radius: 10px;
-  overflow: hidden;
-  cursor: pointer;
-}
-
-.portfolio .portfolio-item-innner .portfolio-img img {
-  width: 100%;
-  display: block;
-} */
-
-/* Portfolio End */
 
 /* Blog Start */
 .blog .container {
